@@ -38,6 +38,7 @@ url: "/cv-tradicional/"
 
 
 
+
 # Daniel Fernández Calvo
 
 Estudiante de Ingeniería Informática en la ETSIINF (UPM)

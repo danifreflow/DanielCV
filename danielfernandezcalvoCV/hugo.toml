@@ -1,8 +1,7 @@
-baseURL = 'https://danifreflow.github.io/danielfernandezcalvoCV.github.io/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Daniel Fernández Calvo - sistemas infórmaticos y arquitectura'
 theme = 'PaperMod'
-relativeURLs = true
 canonifyURLs = true
 
 [markup]

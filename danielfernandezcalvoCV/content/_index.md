@@ -22,25 +22,22 @@ consumidores. En mis tiempos libres me gusta investigar con servidores caseros y
 
 
 
-
 </div>
 
 <div style="flex: 1 1 180px; min-width: 180px;">
-  <img src="{{ "images/yo.jpeg" | relURL }}" alt="Foto de Daniel Fernández" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
+  <img src="/images/yo.jpeg" alt="Foto de Daniel Fernández" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
 
   <div style="margin-top: 1rem; display: flex; gap: 0.5rem;">
     <a href="mailto:d.fernandez@cirqlr.es">
-      <img src="{{ "images/email.jpg" | relURL }}" alt="Email" style="width: 32px; height: 32px;">
+      <img src="/images/email.jpg" alt="Email" style="width: 32px; height: 32px;">
     </a>
     <a href="https://github.com/danifreflow" target="_blank">
-      <img src="{{ "images/GitHub-Mark-ea2971cee799.png" | relURL }}" alt="GitHub" style="width: 32px; height: 32px;">
+      <img src="/images/GitHub-Mark-ea2971cee799.png" alt="GitHub" style="width: 32px; height: 32px;">
     </a>
     <a href="https://www.linkedin.com/in/daniel-fernández-43775723b" target="_blank">
-      <img src="{{ "images/linkedIn.jpg" | relURL }}" alt="LinkedIn" style="width: 32px; height: 32px;">
+      <img src="/images/linkedIn.jpg" alt="LinkedIn" style="width: 32px; height: 32px;">
     </a>
   </div>
-</div>
-
 </div>
 
 
