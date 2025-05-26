@@ -1,7 +1,7 @@
 +++
 date = '2025-05-08T16:42:18+02:00'
 draft = false
-title = 'Migracion de máquinas en Proxmox sin clusterizar'
+title = 'Migración de máquinas en Proxmox sin clusterizar'
 +++
 
 
