@@ -92,8 +92,8 @@ url: "/cv-infografico/"
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 2rem; flex-wrap: wrap;">
-    <img src="/images/hsociales.png" alt="Infograma" style="width: 30%; max-width: 300px; height: auto;" />
-    <img src="/images/infograma.png" alt="Infograma" style="width: 30%; max-width: 300px; height: auto;" />
+    <img src="/images/hsociales.png" alt="habilidades sociales" style="width: 30%; max-width: 300px; height: auto;" />
+    <img src="/images/infograma1.png" alt="Infograma" style="width: 30%; max-width: 300px; height: auto;" />
 </div>
 
 
