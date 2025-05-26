@@ -88,8 +88,12 @@ url: "/cv-infografico/"
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 2rem; flex-wrap: wrap;">
   <img src="/images/tecnologias.png" alt="Tecnologías" style="width: 30%; max-width: 300px; height: auto;" />
-  <img src="/images/infograma.png" alt="Infograma" style="width: 30%; max-width: 300px; height: auto;" />
   <img src="/images/idiomas.png" alt="Idiomas" style="width: 30%; max-width: 300px; height: auto;" />
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 2rem; flex-wrap: wrap;">
+    <img src="/images/hsociales.png" alt="Infograma" style="width: 30%; max-width: 300px; height: auto;" />
+    <img src="/images/infograma.png" alt="Infograma" style="width: 30%; max-width: 300px; height: auto;" />
 </div>
 
 
